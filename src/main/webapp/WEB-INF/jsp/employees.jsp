@@ -8,43 +8,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>员工列表</title>
-    <style type="text/css">
-        body{
-            margin: 0 auto;
-            padding: 0 auto;
-        }
-
-        .employees_table {
-            width:98%;
-            margin: 10px 10px;
-            font-family: "Microsoft YaHei UI";
-            font-size: 22px;
-            border: 2px solid #000;
-            border-collapse: collapse;
-            position: absolute;
-        }
-
-        .employees_table td {
-            border: 2px solid #000;
-            text-align: center;
-        }
-
-        .employees_table th {
-            background-color: #000;
-            font-weight: normal;
-            color: #fff;
-        }
-
-        .employees_table tr {
-            height: 72px;
-            width: 100%;
-            color: #000;
-        }
-
-        .employees_table tr:nth-child(even) {
-            background-color: lightgrey;
-        }
-    </style>
+    <link type="text/css" rel="stylesheet" href="D:\IDEAworkspace\ThoughtWorks18Camp\sixWeek\springMVC\src\main\webapp\resources\css\employees.css">
 </head>
 <body>
 
